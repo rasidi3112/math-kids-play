@@ -237,7 +237,8 @@ export default function Home() {
               "Zaenul Amri",
               "Silmi Altofunnisa",
               "Layya Laily Pebriani",
-              "Zahra Aji Dwi Rizki"
+              "Zahra Aji Dwi Rizki",
+              "Sopian Hasanah" // ✅ tambahan nama baru
             ].map((name, index) => (
               <motion.div
                 key={index}
